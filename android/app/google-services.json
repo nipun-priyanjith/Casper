@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537258872132",
+    "project_id": "caspar-6aa1d",
+    "storage_bucket": "caspar-6aa1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537258872132:android:73688707409d1bae555b11",
+        "android_client_info": {
+          "package_name": "com.example.casper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pOlxaGB-_SYM5jlc7uyZYzk31qWu3Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
